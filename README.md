@@ -35,3 +35,9 @@ Edit
 ```bash
 javac StudentCourseRegistrationConsole.java
 java StudentCourseRegistrationConsole
+
+---
+###Screenshorts
+
+![Screenshot 2025-06-22 135905](https://github.com/user-attachments/assets/f0414b42-7ae8-47d5-a039-9a5fedb81e24)
+
